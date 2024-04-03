@@ -1,0 +1,2 @@
+This is an example of merge conflicts file on master branch
+
